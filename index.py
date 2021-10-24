@@ -27,7 +27,7 @@ class Group:
 
 student_1 = Student('Мулярчук Илья Владимирович', '19.12.2003', 'г.Курган, центр')
 student_2 = Student('Хертек Илья  Олегович', '14.09.1997', 'г.Курган, центр')
-group_1 = Group('ИТ-33')
+group_1 = Group('ИСИП-43')
 group_1.add(student_1)
 group_1.add(student_2)
 
